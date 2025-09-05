@@ -21,3 +21,6 @@ Secret Santa is a holiday tradition in which each participant is randomly assign
 2. **Run the Assignment Tool**: The digital tool randomly assigns each participant a recipient.
 3. **Emails Are Sent Out**: Each participant receives an email (from the organizer’s email address) telling them who they should buy a gift for, while keeping assignments secret.
 4. **Gift Exchange**: Gifts are prepared and exchanged in-person or by mail, as decided by the group.
+
+## How It Works
+**Made by Pranav**
